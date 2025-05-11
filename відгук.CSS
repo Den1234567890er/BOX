@@ -1,0 +1,25 @@
+h1{
+    font-size: 50px;
+    color: rgb(69, 6, 100) ;
+    text-align: center;
+    transition: 1s;
+}
+body{
+    font-family: "Caveat", cursive;
+    background-color:blueviolet;
+}
+a{
+    text-decoration: none;
+    border: 8px double rgb(0, 15, 83);
+    border-radius: 20px;
+    font-size: 40px;
+    color: rgb(255, 238, 0);
+
+}
+nav,a{
+    text-align: center;
+    margin: 15px;
+}
+p{
+    font-size: 45px;
+}
